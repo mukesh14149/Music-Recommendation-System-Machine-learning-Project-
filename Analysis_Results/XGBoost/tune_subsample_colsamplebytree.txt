@@ -1,0 +1,14 @@
+(5788237, 18)
+
+parameters = {'nthread':[-1], #when use hyperthread, xgboost may become slower
+              'objective':['binary:logistic'],
+              'learning_rate': [0.1], #so called `eta` value
+              'max_depth': [16],
+              'gamma':[0.4],
+              'min_child_weight': [20],
+              'silent': [1],
+              'subsample': [i/10.0 for i in range(6,10, 2)],
+              'colsample_bytree': [i/10.0 for i in range(6,10, 2)],
+              'n_estimators': [240], #number of trees, change it to 1000 for better results
+              'missing':[-1],
+              'seed': [1337]}

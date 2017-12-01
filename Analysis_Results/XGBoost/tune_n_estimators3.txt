@@ -1,0 +1,23 @@
+(5788237, 18)
+
+parameters = {'nthread':[-1], #when use hyperthread, xgboost may become slower
+              'objective':['binary:logistic'],
+              'learning_rate': [0.05], #so called `eta` value
+              'max_depth': [8],
+              'min_child_weight': [11],
+              'silent': [1],
+              'subsample': [0.8],
+              'colsample_bytree': [0.7],
+              'n_estimators': [900, 1000, 1100, 1200, 1300, 1400, 1500], #number of trees, change it to 1000 for better results
+              'missing':[-1],
+              'seed': [1337]}
+Best: 0.760008 using {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1500, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8}
+
+
+0.746433 (0.000316) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 900, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.759273, std_train_score 0.000721, mean_fit_time 16187.967485, mean_score_time 1115.963625
+0.749199 (0.000017) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1000, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.762983, std_train_score 0.000429, mean_fit_time 19527.354741, mean_score_time 1127.679533
+0.751863 (0.000071) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1100, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.766669, std_train_score 0.000296, mean_fit_time 21739.559595, mean_score_time 1202.575952
+0.754167 (0.000077) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1200, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.769883, std_train_score 0.000298, mean_fit_time 24674.286056, mean_score_time 1266.755733
+0.756481 (0.000028) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1300, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.773086, std_train_score 0.000359, mean_fit_time 25813.235080, mean_score_time 1355.650522
+0.758188 (0.000053) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1400, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.775665, std_train_score 0.000414, mean_fit_time 16334.257858, mean_score_time 751.111333
+0.760008 (0.000105) with: {'colsample_bytree': 0.7, 'silent': 1, 'missing': -1, 'learning_rate': 0.05, 'nthread': -1, 'min_child_weight': 11, 'n_estimators': 1500, 'subsample': 0.8, 'seed': 1337, 'objective': 'binary:logistic', 'max_depth': 8} extra info => mean_train_score 0.778319, std_train_score 0.000525, mean_fit_time 14858.671895, mean_score_time 686.339059

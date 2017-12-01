@@ -1,0 +1,32 @@
+(999999, 18)
+Best: 0.674638 using {'learn_rate': 0.001, 'momentum': 0.8}
+0.673283 (0.014009) with: {'learn_rate': 0.001, 'momentum': 0.0} extra info => mean_train_score 0.677255, std_train_score 0.007872, mean_fit_time 16424.910166, mean_score_time 53.058615
+0.673316 (0.013544) with: {'learn_rate': 0.001, 'momentum': 0.2} extra info => mean_train_score 0.677713, std_train_score 0.008035, mean_fit_time 16533.821858, mean_score_time 48.706146
+0.674083 (0.014014) with: {'learn_rate': 0.001, 'momentum': 0.4} extra info => mean_train_score 0.678322, std_train_score 0.007850, mean_fit_time 16483.217700, mean_score_time 49.972968
+0.674605 (0.014239) with: {'learn_rate': 0.001, 'momentum': 0.6} extra info => mean_train_score 0.679288, std_train_score 0.007676, mean_fit_time 16696.859907, mean_score_time 52.059680
+0.674638 (0.013906) with: {'learn_rate': 0.001, 'momentum': 0.8} extra info => mean_train_score 0.679816, std_train_score 0.007625, mean_fit_time 16742.840814, mean_score_time 51.372107
+0.674316 (0.014958) with: {'learn_rate': 0.001, 'momentum': 0.9} extra info => mean_train_score 0.679448, std_train_score 0.006629, mean_fit_time 16774.476525, mean_score_time 51.071530
+0.674372 (0.015027) with: {'learn_rate': 0.01, 'momentum': 0.0} extra info => mean_train_score 0.679808, std_train_score 0.006882, mean_fit_time 15105.462582, mean_score_time 47.466706
+0.673980 (0.013687) with: {'learn_rate': 0.01, 'momentum': 0.2} extra info => mean_train_score 0.679170, std_train_score 0.007128, mean_fit_time 11698.575384, mean_score_time 32.325919
+0.674276 (0.014161) with: {'learn_rate': 0.01, 'momentum': 0.4} extra info => mean_train_score 0.679509, std_train_score 0.007358, mean_fit_time 11665.683694, mean_score_time 34.220577
+0.672824 (0.013313) with: {'learn_rate': 0.01, 'momentum': 0.6} extra info => mean_train_score 0.678216, std_train_score 0.007776, mean_fit_time 11603.324892, mean_score_time 35.482811
+0.668987 (0.011519) with: {'learn_rate': 0.01, 'momentum': 0.8} extra info => mean_train_score 0.675017, std_train_score 0.008750, mean_fit_time 8965.299929, mean_score_time 26.286211
+0.664970 (0.010596) with: {'learn_rate': 0.01, 'momentum': 0.9} extra info => mean_train_score 0.670643, std_train_score 0.009790, mean_fit_time 8934.068326, mean_score_time 23.547587
+0.665141 (0.010089) with: {'learn_rate': 0.1, 'momentum': 0.0} extra info => mean_train_score 0.670855, std_train_score 0.009878, mean_fit_time 8951.188116, mean_score_time 23.218535
+0.665510 (0.011265) with: {'learn_rate': 0.1, 'momentum': 0.2} extra info => mean_train_score 0.670484, std_train_score 0.009229, mean_fit_time 8601.019891, mean_score_time 23.528204
+0.664777 (0.012569) with: {'learn_rate': 0.1, 'momentum': 0.4} extra info => mean_train_score 0.669484, std_train_score 0.008040, mean_fit_time 8504.739240, mean_score_time 19.384345
+0.660082 (0.013145) with: {'learn_rate': 0.1, 'momentum': 0.6} extra info => mean_train_score 0.664363, std_train_score 0.007159, mean_fit_time 8493.405747, mean_score_time 19.067178
+0.640021 (0.007890) with: {'learn_rate': 0.1, 'momentum': 0.8} extra info => mean_train_score 0.644205, std_train_score 0.009889, mean_fit_time 11623.953842, mean_score_time 36.164052
+0.499980 (0.000016) with: {'learn_rate': 0.1, 'momentum': 0.9} extra info => mean_train_score 0.500011, std_train_score 0.000016, mean_fit_time 17847.669496, mean_score_time 65.703819
+0.659343 (0.009932) with: {'learn_rate': 0.2, 'momentum': 0.0} extra info => mean_train_score 0.665140, std_train_score 0.008955, mean_fit_time 18048.998940, mean_score_time 64.041522
+0.656796 (0.011169) with: {'learn_rate': 0.2, 'momentum': 0.2} extra info => mean_train_score 0.661414, std_train_score 0.008659, mean_fit_time 18109.969044, mean_score_time 67.174051
+0.650534 (0.010727) with: {'learn_rate': 0.2, 'momentum': 0.4} extra info => mean_train_score 0.655434, std_train_score 0.009055, mean_fit_time 25232.371991, mean_score_time 69.538458
+0.637437 (0.006131) with: {'learn_rate': 0.2, 'momentum': 0.6} extra info => mean_train_score 0.641958, std_train_score 0.010512, mean_fit_time 25276.928530, mean_score_time 64.397798
+0.500041 (0.000061) with: {'learn_rate': 0.2, 'momentum': 0.8} extra info => mean_train_score 0.500151, std_train_score 0.000161, mean_fit_time 25062.203645, mean_score_time 62.954807
+0.499995 (0.000001) with: {'learn_rate': 0.2, 'momentum': 0.9} extra info => mean_train_score 0.500000, std_train_score 0.000000, mean_fit_time 25220.565115, mean_score_time 65.917319
+0.656233 (0.009914) with: {'learn_rate': 0.3, 'momentum': 0.0} extra info => mean_train_score 0.661224, std_train_score 0.010883, mean_fit_time 25354.777994, mean_score_time 66.697234
+0.647963 (0.007371) with: {'learn_rate': 0.3, 'momentum': 0.2} extra info => mean_train_score 0.652098, std_train_score 0.011781, mean_fit_time 25461.589417, mean_score_time 68.708168
+0.639731 (0.008246) with: {'learn_rate': 0.3, 'momentum': 0.4} extra info => mean_train_score 0.643506, std_train_score 0.015101, mean_fit_time 25180.966433, mean_score_time 68.187814
+0.606578 (0.011268) with: {'learn_rate': 0.3, 'momentum': 0.6} extra info => mean_train_score 0.608726, std_train_score 0.001504, mean_fit_time 25453.577031, mean_score_time 50.968937
+0.499988 (0.000004) with: {'learn_rate': 0.3, 'momentum': 0.8} extra info => mean_train_score 0.500000, std_train_score 0.000000, mean_fit_time 25369.226159, mean_score_time 45.189858
+0.500271 (0.000389) with: {'learn_rate': 0.3, 'momentum': 0.9} extra info => mean_train_score 0.500643, std_train_score 0.000909, mean_fit_time 25357.920634, mean_score_time 31.526690

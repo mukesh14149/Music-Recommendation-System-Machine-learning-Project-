@@ -1,0 +1,17 @@
+Best: 0.668457 using {'epochs': 50, 'layer2': 8, 'layer1': 10, 'layer3': 3, 'layers': 3}
+0.658193 (0.017227) with: {'epochs': 50, 'layer2': 5, 'layer1': 10, 'layer3': 3, 'layers': 2} extra info => mean_train_score 0.661037, std_train_score 0.008874, mean_fit_time 6495.542751, mean_score_time 9.549716
+0.663591 (0.014243) with: {'epochs': 50, 'layer2': 5, 'layer1': 10, 'layer3': 3, 'layers': 3} extra info => mean_train_score 0.665737, std_train_score 0.008034, mean_fit_time 7207.810826, mean_score_time 15.954186
+0.663469 (0.013083) with: {'epochs': 50, 'layer2': 5, 'layer1': 10, 'layer3': 4, 'layers': 2} extra info => mean_train_score 0.665468, std_train_score 0.008854, mean_fit_time 6170.400268, mean_score_time 9.791821
+0.664081 (0.013325) with: {'epochs': 50, 'layer2': 5, 'layer1': 10, 'layer3': 4, 'layers': 3} extra info => mean_train_score 0.665997, std_train_score 0.008390, mean_fit_time 6941.756837, mean_score_time 13.772963
+0.666165 (0.015253) with: {'epochs': 50, 'layer2': 8, 'layer1': 10, 'layer3': 3, 'layers': 2} extra info => mean_train_score 0.668032, std_train_score 0.005856, mean_fit_time 6390.919572, mean_score_time 10.230574
+0.668457 (0.015118) with: {'epochs': 50, 'layer2': 8, 'layer1': 10, 'layer3': 3, 'layers': 3} extra info => mean_train_score 0.670497, std_train_score 0.006798, mean_fit_time 5879.798135, mean_score_time 16.343469
+0.665531 (0.014259) with: {'epochs': 50, 'layer2': 8, 'layer1': 10, 'layer3': 4, 'layers': 2} extra info => mean_train_score 0.668048, std_train_score 0.008275, mean_fit_time 4894.341392, mean_score_time 11.738264
+0.667124 (0.012999) with: {'epochs': 50, 'layer2': 8, 'layer1': 10, 'layer3': 4, 'layers': 3} extra info => mean_train_score 0.669644, std_train_score 0.008323, mean_fit_time 6268.245980, mean_score_time 20.224105
+0.659593 (0.017218) with: {'epochs': 50, 'layer2': 5, 'layer1': 20, 'layer3': 3, 'layers': 2} extra info => mean_train_score 0.661651, std_train_score 0.003932, mean_fit_time 2803.173323, mean_score_time 8.139640
+0.664268 (0.012780) with: {'epochs': 50, 'layer2': 5, 'layer1': 20, 'layer3': 3, 'layers': 3} extra info => mean_train_score 0.666915, std_train_score 0.009106, mean_fit_time 6491.559438, mean_score_time 19.334542
+0.663200 (0.016527) with: {'epochs': 50, 'layer2': 5, 'layer1': 20, 'layer3': 4, 'layers': 2} extra info => mean_train_score 0.664563, std_train_score 0.005520, mean_fit_time 6232.608816, mean_score_time 14.722608
+0.663861 (0.014122) with: {'epochs': 50, 'layer2': 5, 'layer1': 20, 'layer3': 4, 'layers': 3} extra info => mean_train_score 0.665741, std_train_score 0.006912, mean_fit_time 4206.785197, mean_score_time 11.250702
+0.664568 (0.015821) with: {'epochs': 50, 'layer2': 8, 'layer1': 20, 'layer3': 3, 'layers': 2} extra info => mean_train_score 0.667027, std_train_score 0.005698, mean_fit_time 2761.463916, mean_score_time 8.726276
+0.665609 (0.015775) with: {'epochs': 50, 'layer2': 8, 'layer1': 20, 'layer3': 3, 'layers': 3} extra info => mean_train_score 0.668211, std_train_score 0.006854, mean_fit_time 2587.087607, mean_score_time 8.693141
+0.664939 (0.013942) with: {'epochs': 50, 'layer2': 8, 'layer1': 20, 'layer3': 4, 'layers': 2} extra info => mean_train_score 0.667137, std_train_score 0.007807, mean_fit_time 1655.606731, mean_score_time 6.948606
+0.666467 (0.012819) with: {'epochs': 50, 'layer2': 8, 'layer1': 20, 'layer3': 4, 'layers': 3} extra info => mean_train_score 0.668745, std_train_score 0.009096, mean_fit_time 1765.713821, mean_score_time 7.424797

@@ -1,0 +1,10 @@
+(999999, 18)
+Best: 0.639128 using {'activation': 'softsign'}
+0.638786 (0.014678) with: {'activation': 'softmax'} extra info => mean_train_score 0.644077, std_train_score 0.007679, mean_fit_time 58171.173549, mean_score_time 210.055252
+0.635405 (0.015956) with: {'activation': 'softplus'} extra info => mean_train_score 0.639613, std_train_score 0.006780, mean_fit_time 58105.867994, mean_score_time 211.505210
+0.639128 (0.014919) with: {'activation': 'softsign'} extra info => mean_train_score 0.643507, std_train_score 0.008835, mean_fit_time 57862.710968, mean_score_time 224.138840
+0.635275 (0.018126) with: {'activation': 'relu'} extra info => mean_train_score 0.641291, std_train_score 0.006560, mean_fit_time 49772.318436, mean_score_time 115.285681
+0.635295 (0.016466) with: {'activation': 'tanh'} extra info => mean_train_score 0.640662, std_train_score 0.007467, mean_fit_time 46340.901765, mean_score_time 101.457672
+0.637121 (0.016669) with: {'activation': 'sigmoid'} extra info => mean_train_score 0.643876, std_train_score 0.007138, mean_fit_time 46135.837209, mean_score_time 89.197438
+0.638819 (0.016008) with: {'activation': 'hard_sigmoid'} extra info => mean_train_score 0.644681, std_train_score 0.006982, mean_fit_time 35898.162400, mean_score_time 59.973433
+0.600097 (0.016798) with: {'activation': 'linear'} extra info => mean_train_score 0.603843, std_train_score 0.009832, mean_fit_time 14292.047852, mean_score_time 43.995206

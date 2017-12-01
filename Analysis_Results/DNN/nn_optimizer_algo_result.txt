@@ -1,0 +1,9 @@
+(999999, 18)
+Best: 0.675660 using {'optimizer': 'Adamax'}
+0.674419 (0.014092) with: {'optimizer': 'SGD'} extra info => mean_train_score 0.678930, std_train_score 0.007464, mean_fit_time 10692.028266, mean_score_time 19.061887
+0.635827 (0.017817) with: {'optimizer': 'RMSprop'} extra info => mean_train_score 0.637702, std_train_score 0.003143, mean_fit_time 10880.666493, mean_score_time 19.155708
+0.665113 (0.014541) with: {'optimizer': 'Adagrad'} extra info => mean_train_score 0.668466, std_train_score 0.007190, mean_fit_time 10812.475549, mean_score_time 19.136160
+0.672809 (0.013642) with: {'optimizer': 'Adadelta'} extra info => mean_train_score 0.677347, std_train_score 0.007944, mean_fit_time 11665.815561, mean_score_time 41.139715
+0.674479 (0.014361) with: {'optimizer': 'Adam'} extra info => mean_train_score 0.679945, std_train_score 0.006669, mean_fit_time 11927.397583, mean_score_time 49.632742
+0.675660 (0.015393) with: {'optimizer': 'Adamax'} extra info => mean_train_score 0.680916, std_train_score 0.006611, mean_fit_time 11800.941444, mean_score_time 49.182163
+0.671398 (0.014199) with: {'optimizer': 'Nadam'} extra info => mean_train_score 0.675688, std_train_score 0.006488, mean_fit_time 11237.719759, mean_score_time 24.425235

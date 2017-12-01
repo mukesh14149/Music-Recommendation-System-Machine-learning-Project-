@@ -1,0 +1,4 @@
+(5788237, 18)
+Data loading complete
+Best: 0.417627 using {'feature_fraction_seed': 1, 'bagging_seed': 1, 'num_rounds': 200, 'num_leaves': 256, 'bagging_fraction': 0.95, 'learning_rate': 10, 'n_estimators': 50, 'verbosity': 0, 'max_bin': 128, 'feature_fraction': 0.9, 'bagging_freq': 1, 'max_depth': 14, 'metric': 'auc', 'boosting_type': 'gbdt'}
+0.417627 (0.000568) with: {'feature_fraction_seed': 1, 'bagging_seed': 1, 'num_rounds': 200, 'num_leaves': 256, 'bagging_fraction': 0.95, 'learning_rate': 10, 'n_estimators': 50, 'verbosity': 0, 'max_bin': 128, 'feature_fraction': 0.9, 'bagging_freq': 1, 'max_depth': 14, 'metric': 'auc', 'boosting_type': 'gbdt'} extra info => mean_train_score 0.418213, std_train_score 0.000880, mean_fit_time 1229.500304, mean_score_time 13.715582

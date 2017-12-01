@@ -1,0 +1,10 @@
+(999999, 18)
+Best: 0.676188 using {'init_mode': 'normal'}
+0.676085 (0.014084) with: {'init_mode': 'uniform'} extra info => mean_train_score 0.681393, std_train_score 0.007366, mean_fit_time 16883.411764, mean_score_time 44.455788
+0.675320 (0.013611) with: {'init_mode': 'lecun_uniform'} extra info => mean_train_score 0.680083, std_train_score 0.007782, mean_fit_time 16851.695839, mean_score_time 48.077626
+0.676188 (0.013222) with: {'init_mode': 'normal'} extra info => mean_train_score 0.681271, std_train_score 0.007787, mean_fit_time 16820.485674, mean_score_time 50.089221
+0.500000 (0.000000) with: {'init_mode': 'zero'} extra info => mean_train_score 0.500000, std_train_score 0.000000, mean_fit_time 16699.623510, mean_score_time 50.516433
+0.674477 (0.014819) with: {'init_mode': 'glorot_normal'} extra info => mean_train_score 0.679152, std_train_score 0.006609, mean_fit_time 16799.323482, mean_score_time 46.212440
+0.675872 (0.015110) with: {'init_mode': 'glorot_uniform'} extra info => mean_train_score 0.680424, std_train_score 0.006114, mean_fit_time 16772.819002, mean_score_time 50.276300
+0.673856 (0.014805) with: {'init_mode': 'he_normal'} extra info => mean_train_score 0.679544, std_train_score 0.006589, mean_fit_time 14968.585356, mean_score_time 46.510275
+0.675496 (0.013728) with: {'init_mode': 'he_uniform'} extra info => mean_train_score 0.681081, std_train_score 0.007720, mean_fit_time 11500.078583, mean_score_time 28.976850

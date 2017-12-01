@@ -1,0 +1,5 @@
+(5788237, 18)
+Data loading complete
+Best: 0.664917 using {'feature_fraction_seed': 1, 'bagging_seed': 1, 'num_leaves': 1024, 'bagging_fraction': 1, 'learning_rate': 0.1, 'n_estimators': 50, 'verbosity': 0, 'max_bin': 10, 'num_boost_round': 100, 'feature_fraction': 1, 'bagging_freq': 1, 'max_depth': 10, 'metric': 'auc', 'boosting_type': 'gbdt'}
+0.664917 (0.000691) with: {'feature_fraction_seed': 1, 'bagging_seed': 1, 'num_leaves': 1024, 'bagging_fraction': 1, 'learning_rate': 0.1, 'n_estimators': 50, 'verbosity': 0, 'max_bin': 10, 'num_boost_round': 100, 'feature_fraction': 1, 'bagging_freq': 1, 'max_depth': 10, 'metric': 'auc', 'boosting_type': 'gbdt'} extra info => mean_train_score 0.673408, std_train_score 0.000026, mean_fit_time 231.882691, mean_score_time 46.386386
+creating output for DTC

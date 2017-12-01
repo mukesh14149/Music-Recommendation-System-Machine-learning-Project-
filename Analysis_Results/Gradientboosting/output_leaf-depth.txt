@@ -1,0 +1,16 @@
+max_depth [8, 13, 16]
+min_samples_leaf [20, 100, 150]
+{'max_depth': 8, 'min_samples_leaf': 20}
+[mean: 0.50000, std: 0.00000, params: {'max_depth': 8, 'min_samples_leaf': 20}, mean: 0.50000, std: 0.00000, params: {'max_depth': 8, 'min_samples_leaf': 100}, mean: 0.50000, std: 0.00000, params: {'max_depth': 8, 'min_samples_leaf': 150}, mean: 0.50000, std: 0.00000, params: {'max_depth': 13, 'min_samples_leaf': 20}, mean: 0.50000, std: 0.00000, params: {'max_depth': 13, 'min_samples_leaf': 100}, mean: 0.50000, std: 0.00000, params: {'max_depth': 13, 'min_samples_leaf': 150}, mean: 0.50000, std: 0.00000, params: {'max_depth': 16, 'min_samples_leaf': 20}, mean: 0.50000, std: 0.00000, params: {'max_depth': 16, 'min_samples_leaf': 100}, mean: 0.50000, std: 0.00000, params: {'max_depth': 16, 'min_samples_leaf': 150}]
+{'std_train_score': array([ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.]), 'rank_test_score': array([1, 1, 1, 1, 1, 1, 1, 1, 1], dtype=int32), 'param_max_depth': masked_array(data = [8 8 8 13 13 13 16 16 16],
+             mask = [False False False False False False False False False],
+       fill_value = ?)
+, 'split1_train_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'split2_train_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'std_score_time': array([  5.97989835e-05,   2.01130720e-05,   1.50893828e-05,
+         6.80595845e-06,   2.74780788e-05,   2.08785352e-05,
+         2.44758345e-05,   2.42070208e-05,   2.95311993e-05]), 'split2_test_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'param_min_samples_leaf': masked_array(data = [20 100 150 20 100 150 20 100 150],
+             mask = [False False False False False False False False False],
+       fill_value = ?)
+, 'mean_fit_time': array([ 0.08919533,  0.09055964,  0.08983795,  0.08948469,  0.09070063,
+        0.09044194,  0.09064603,  0.09040904,  0.09079734]), 'split0_train_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'mean_score_time': array([ 0.00075873,  0.00074077,  0.00073234,  0.00071867,  0.00074474,
+        0.00074935,  0.0007623 ,  0.00074363,  0.00075197]), 'std_test_score': array([ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.]), 'mean_train_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'split0_test_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'mean_test_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5]), 'params': [{'max_depth': 8, 'min_samples_leaf': 20}, {'max_depth': 8, 'min_samples_leaf': 100}, {'max_depth': 8, 'min_samples_leaf': 150}, {'max_depth': 13, 'min_samples_leaf': 20}, {'max_depth': 13, 'min_samples_leaf': 100}, {'max_depth': 13, 'min_samples_leaf': 150}, {'max_depth': 16, 'min_samples_leaf': 20}, {'max_depth': 16, 'min_samples_leaf': 100}, {'max_depth': 16, 'min_samples_leaf': 150}], 'std_fit_time': array([ 0.00056053,  0.0011139 ,  0.00060176,  0.00058828,  0.00212171,
+        0.00098143,  0.00046998,  0.00100363,  0.00036548]), 'split1_test_score': array([ 0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5,  0.5])}

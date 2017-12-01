@@ -1,0 +1,18 @@
+import matplotlib.pyplot as plt
+from matplotlib import pyplot
+
+m = [1e-05,0.01,0.1,1,100]
+
+colors=["#FF0000","#008080","#FF00FF","#808000", "#800080","#00FFFF","#0000FF","#800080","#FF00FF"]
+
+y0 = [0.780856,0.781309,0.782177,0.781699,0.746063]
+y1 = [0.827173,0.827638,0.828307,0.827024,0.755766]
+
+plt.plot(m,y0)
+plt.plot(m,y1)
+
+plt.xlabel('reg_alpha')
+plt.ylabel('Accuracy')
+
+legend1 = plt.legend(['test_score', 'train_score'], loc='lower left')
+plt.show()

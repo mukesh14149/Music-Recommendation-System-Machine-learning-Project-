@@ -1,0 +1,12 @@
+Best: 0.603300 using {'neurons': 40}
+0.595061 (0.022787) with: {'neurons': 1} extra info => mean_train_score 0.600878, std_train_score 0.006143, mean_fit_time 28799.983741, mean_score_time 92.543753
+0.596846 (0.018013) with: {'neurons': 10} extra info => mean_train_score 0.601934, std_train_score 0.008414, mean_fit_time 28816.001109, mean_score_time 88.358865
+0.596238 (0.018792) with: {'neurons': 20} extra info => mean_train_score 0.601294, std_train_score 0.008039, mean_fit_time 28781.560388, mean_score_time 90.786280
+0.601011 (0.013823) with: {'neurons': 30} extra info => mean_train_score 0.604662, std_train_score 0.010685, mean_fit_time 29224.856702, mean_score_time 93.607705
+0.603300 (0.016303) with: {'neurons': 40} extra info => mean_train_score 0.606211, std_train_score 0.009052, mean_fit_time 29403.107037, mean_score_time 92.653235
+0.602781 (0.015796) with: {'neurons': 50} extra info => mean_train_score 0.605651, std_train_score 0.009422, mean_fit_time 29371.289085, mean_score_time 97.446708
+0.599904 (0.018240) with: {'neurons': 60} extra info => mean_train_score 0.603433, std_train_score 0.008351, mean_fit_time 29620.400033, mean_score_time 84.677579
+0.595914 (0.015588) with: {'neurons': 70} extra info => mean_train_score 0.599541, std_train_score 0.010037, mean_fit_time 30066.463109, mean_score_time 75.797751
+0.594776 (0.016066) with: {'neurons': 80} extra info => mean_train_score 0.598235, std_train_score 0.010061, mean_fit_time 29953.522800, mean_score_time 79.230168
+0.594310 (0.015057) with: {'neurons': 90} extra info => mean_train_score 0.597827, std_train_score 0.010375, mean_fit_time 30124.593767, mean_score_time 54.983059
+0.592277 (0.016393) with: {'neurons': 100} extra info => mean_train_score 0.598646, std_train_score 0.009771, mean_fit_time 14598.506127, mean_score_time 41.753994
